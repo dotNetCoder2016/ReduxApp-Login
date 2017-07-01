@@ -1,5 +1,5 @@
 {
-  "name": "saga-login-flow",
+  "name": "Redux-App",
   "version": "0.0.0",
   "description": "A login/register flow built with React & Redux Saga",
   "scripts": {
